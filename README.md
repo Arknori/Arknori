@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">João Victor</h1>
 
-<!--
-**Arknori/Arknori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Purple Team • OSINT • Threat Hunting
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+> whoami
+
+Information Systems Student
+Focused on Red Team operations and reconnaissance
+Building practical labs and offensive security knowledge
+```
+
+---
+
+## Areas of Interest
+
+- OSINT
+- Threat Hunting
+- Web Security
+- Active Directory
+- Linux
+- Networking
+- Enumeration
+- SIEM
+- Purple Team
+
+---
+
+## Tooling
+
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux)
+![Kali](https://img.shields.io/badge/Kali-0d1117?style=for-the-badge&logo=kalilinux)
+![BurpSuite](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash)
+
+---
+
+## Labs
+
+- Active Directory Lab
+- OSINT Investigations
+- Threat Hunting Notes
+- Network Analysis
+- Enumeration Practice
+- Web Pentest Labs
+
+---
