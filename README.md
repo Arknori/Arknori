@@ -10,7 +10,7 @@ Purple Team • OSINT • Threat Hunting
 > whoami
 
 Information Systems Student
-Focused on Red Team operations and reconnaissance
+Focused on Purple Team operations and reconnaissance
 Building practical labs and offensive security knowledge
 ```
 
