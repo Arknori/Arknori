@@ -1,7 +1,7 @@
 <h1 align="center">João Victor</h1>
 
 <p align="center">
-SOC • BLUE TEAM • THERAT DETECTION
+BLUE TEAM • SOC • THERAT DETECTION
 </p>
 
 ---
