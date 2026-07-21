@@ -1,7 +1,7 @@
 <h1 align="center">João Victor</h1>
 
 <p align="center">
-Purple Team • OSINT • Threat Hunting
+SOC • BLUE TEAM • Threat Detection
 </p>
 
 ---
